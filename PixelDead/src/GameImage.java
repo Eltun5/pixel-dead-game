@@ -27,7 +27,7 @@ public class GameImage {
             p1BottomToRight=ImageIO.read(getClass().getResourceAsStream("Players/Player1Bottom-Right.png"));
             p1Right=ImageIO.read(getClass().getResourceAsStream("Players/Player1Right.png"));
             p1RightToUp=ImageIO.read(getClass().getResourceAsStream("Players/Player1Right-Up.png"));
-            p1Up1=ImageIO.read(getClass().getResourceAsStream("Players/Player1PistolUP.png"));
+            p1Up1=ImageIO.read(getClass().getResourceAsStream("Players/Player1PistolUp.png"));
             p1Left1=ImageIO.read(getClass().getResourceAsStream("Players/Player1PistolLeft.png"));
             p1Bottom1=ImageIO.read(getClass().getResourceAsStream("Players/Player1PistolBottom.png"));
             p1Right1=ImageIO.read(getClass().getResourceAsStream("Players/Player1PistolRight.png"));
